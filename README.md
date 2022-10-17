@@ -5,9 +5,13 @@ mbti_test
 <MBTI를 이용한 유형별 고래테스트>
 
 사용한 프레임워크: 
+
 Back-End: Java Spring Framework, Spring Boot, Spring Security.
+
 Front-End: React
+
 Designer: Figma
+
 
 사용한 DB:
 MySQL, MariaDB, Redis

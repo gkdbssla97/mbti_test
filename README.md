@@ -2,17 +2,13 @@
 # MBTI_TEST_Report
 mbti_test
 
-![image]
-(https://github.com/gkdbssla97/MBTI_TEST_Report/blob/main/images/%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B51%E1%84%87%E1%85%A5%E1%86%AB.png)
+![image](https://user-images.githubusercontent.com/55674664/202150126-7ded25e6-62d1-46b2-be3a-ea69f0207136.png)
 
-![image]
-(https://github.com/gkdbssla97/MBTI_TEST_Report/blob/main/images/%E1%84%86%E1%85%A9%E1%86%A8%E1%84%8E%E1%85%A1.png)
+![image](https://user-images.githubusercontent.com/55674664/202149875-b94b8ba5-8c01-4653-af5e-7df5e470b16b.png)
 
-![image]
-(https://github.com/gkdbssla97/MBTI_TEST_Report/blob/main/images/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD.png)
+![image](https://user-images.githubusercontent.com/55674664/202149929-fe05b1cd-ceea-4dd1-b63f-167d3dfeba14.png)
 
-![image]
-(https://github.com/gkdbssla97/MBTI_TEST_Report/blob/main/images/%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A7%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A9%E1%84%8B%E1%85%AE.png)
+![image](https://user-images.githubusercontent.com/55674664/202150029-62feefa2-430f-4db8-8c14-8f9de19abaf5.png)
 
 ![image](https://github.com/gkdbssla97/MBTI_TEST_Report/blob/main/images/%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A7%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A9%E1%84%8B%E1%85%AE.png)
 

@@ -2,24 +2,21 @@
 # MBTI_TEST_Report
 mbti_test
 
-<MBTI를 이용한 유형별 고래테스트>
+![image]
+(https://github.com/gkdbssla97/MBTI_TEST_Report/blob/main/images/%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B51%E1%84%87%E1%85%A5%E1%86%AB.png)
 
-사용한 프레임워크>
+![image]
+(https://github.com/gkdbssla97/MBTI_TEST_Report/blob/main/images/%E1%84%86%E1%85%A9%E1%86%A8%E1%84%8E%E1%85%A1.png)
 
-Back-End: Java Spring Framework, Spring Boot, Spring Security.
+![image]
+(https://github.com/gkdbssla97/MBTI_TEST_Report/blob/main/images/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD.png)
 
-Front-End: React
+![image]
+(https://github.com/gkdbssla97/MBTI_TEST_Report/blob/main/images/%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A7%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A9%E1%84%8B%E1%85%AE.png)
 
-Designer: Figma
+![image](https://github.com/gkdbssla97/MBTI_TEST_Report/blob/main/images/%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A7%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A9%E1%84%8B%E1%85%AE.png)
 
-
-사용한 DB>
-MySQL, MariaDB, Redis
-
-사용한 기술 스택>
-Tomcat, Axios, AWS EC2, Docker, Git, Postman 
-
-제작기간: 2022-07 ~ 2022-09 (9월이후 유지보수 중, 10월 서버 중지)
+![image](https://github.com/gkdbssla97/MBTI_TEST_Report/blob/main/images/ERD.png)
 
 ![image](https://github.com/gkdbssla97/MBTI_TEST_-/blob/main/images/%EB%A9%94%EC%9D%B8%ED%99%88%ED%99%94%EB%A9%B4.png)
 우측 상단에 햄버거 메뉴를 누르면 사진과 같이 로그인이 필요합니다. 테스트 기록보기. 회원정보 수정. 회원가입. 고래도감이 나옵니다. 
